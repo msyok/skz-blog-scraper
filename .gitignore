@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+*.md
+*.png
+*.jpeg
+*.jpg
+*.gif
+
+.DS_Store
